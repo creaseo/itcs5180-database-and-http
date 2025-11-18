@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963569335366",
+    "project_id": "fir-demoapp-8bbad",
+    "storage_bucket": "fir-demoapp-8bbad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963569335366:android:41a77736e5ecdcb2ba5e47",
+        "android_client_info": {
+          "package_name": "edu.charlotte.firebasedemoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPrATiedoRqpw7MZK4efFRML09muZ_QXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
